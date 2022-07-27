@@ -1,24 +1,20 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+baseurl: ""
+permalink: /:title.html
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: DashQuestion
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "A website to help you make better decisions!" # used by search engines
 
   # Header and footer text
-  header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
-  header_text_feature_image:
-  footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+  header_text: 
+  header_text_feature_image: assets/img/ray-mallick-5J1bHRX1fNw-unsplash.jpg 
+  footer_text: CopyrightⒸ 2022
 
   # Icons
   rss: false
@@ -29,7 +25,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: 
   gitter:
   google_plus:
   instagram:
@@ -74,12 +70,13 @@ paginate: 5
 paginate_path: "blog/page:num"
 
 # BUILD SETTINGS
+url: ""
 markdown: kramdown
 highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-sitemap]
 exclude:
   - Gemfile
   - Gemfile.lock
