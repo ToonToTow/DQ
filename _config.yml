@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/dd"
+baseurl: "/DQ"
 permalink: /:title.html
 
 # THEME-SPECIFIC CONFIGURATION
