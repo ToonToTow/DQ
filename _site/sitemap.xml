@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/do-bananas-cause-mucus.html</loc>
+<loc>http://localhost:4000/DQ/do-bananas-cause-mucus.html</loc>
 <lastmod>2014-01-13T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>/about/</loc>
+<loc>http://localhost:4000/DQ/about/</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>http://localhost:4000/DQ/</loc>
 </url>
 <url>
-<loc>/search</loc>
+<loc>http://localhost:4000/DQ/search</loc>
 </url>
 <url>
-<loc>/tags</loc>
+<loc>http://localhost:4000/DQ/tags</loc>
 </url>
 </urlset>

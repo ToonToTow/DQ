@@ -2,17 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DashQuestion</title>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>/</link>
+    <atom:link href="/DQ/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://localhost:4000/DQ/</link>
     <description>A website to help you make better decisions!</description>
-    <pubDate>Wed, 27 Jul 2022 18:57:48 +0200</pubDate>
+    <pubDate>Tue, 30 Aug 2022 21:51:50 +0200</pubDate>
     
       <item>
         <title>Do bananas cause mucus?</title>
-        <link>/do-bananas-cause-mucus.html</link>
-        <guid isPermaLink="true">/do-bananas-cause-mucus.html</guid>
+        <link>/DQ/do-bananas-cause-mucus.html</link>
+        <guid isPermaLink="true">/DQ/do-bananas-cause-mucus.html</guid>
         <description>&lt;!--more--&gt;
-&lt;p&gt;Do banana cuse?&lt;/p&gt;
+&lt;p&gt;DO bana?&lt;br /&gt;
+Do banana cuse?
+adad&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Jan 2014 00:00:00 +0100</pubDate>
       </item>
