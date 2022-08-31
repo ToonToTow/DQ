@@ -5,15 +5,15 @@ permalink: /:title.html
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: DashQuestion
-  avatar: assets/img/avatar.png
+  title: Live feeling better
+  avatar: assets/img/planet-earth.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "A website to help you make better decisions!" # used by search engines
 
   # Header and footer text
   header_text: 
-  header_text_feature_image: assets/img/ray-mallick-5J1bHRX1fNw-unsplash.jpg 
+  header_text_feature_image: assets/img/fini.jpg 
   footer_text: CopyrightⒸ 2022
 
   # Icons
