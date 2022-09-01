@@ -1,20 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DashQuestion</title>
-    <atom:link href="/DQ/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>http://localhost:4000/DQ/</link>
+    <title>Live feeling better</title>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://localhost:4000/</link>
     <description>A website to help you make better decisions!</description>
-    <pubDate>Tue, 30 Aug 2022 21:51:50 +0200</pubDate>
+    <pubDate>Fri, 02 Sep 2022 01:28:50 +0200</pubDate>
+    
+      <item>
+        <title>Does rice cause mucus?</title>
+        <link>/does-rice-cause-mucus.html</link>
+        <guid isPermaLink="true">/does-rice-cause-mucus.html</guid>
+        <description>&lt;!--more--&gt;
+&lt;p&gt;Everyone loves a nice bowl of rice with chicken and brocoli but it seems that everytime you eat rice, your body produces more-than-needed mucus. Could rice be the issue? Read below to find it out!&lt;/p&gt;
+
+&lt;h2 id=&quot;mucus&quot;&gt;Mucus&lt;/h2&gt;
+&lt;p&gt;Mucus is an important substance of your body, it traps germs and foreign particles in your respiratory passages that could harm you. Your body produes more mucus than normally when you have a cold, asthma, cough or any other respiratory condition.&lt;/p&gt;
+
+&lt;h2 id=&quot;does-rice-increase-production-of-mucus&quot;&gt;Does rice increase production of mucus?&lt;/h2&gt;
+&lt;p&gt;Rice does increase production of mucus. Other foods that increase production of mucus are bananas, oatmeal, white flour, processed foods, red meat.&lt;/p&gt;
+
+&lt;h2 id=&quot;allergies&quot;&gt;Allergies&lt;/h2&gt;
+&lt;p&gt;Most people are not allergic to rice, but you could be. Common sympoms and signs are sneezing, runny nose, shortness of breath, stomacache etc. Make a note of it and discuss it with your doctor.&lt;/p&gt;
+
+&lt;h2 id=&quot;throat-disorders&quot;&gt;Throat disorders&lt;/h2&gt;
+&lt;p&gt;It is possible that rice might not be the cause. Viral infections, laryngitis, cararrh sinusitis, cigarette smoke, polluted air could be other causes.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-deal-with-it&quot;&gt;How to deal with it?&lt;/h2&gt;
+&lt;p&gt;You could try eating mucus-destroying foods like honey or drinking chamomie tea or gargling hot water. If you feel allergic to rice, contact your doctor for potential allergy shots.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Jan 2014 00:00:00 +0100</pubDate>
+      </item>
+    
+      <item>
+        <title>Does coffee cause mucus?</title>
+        <link>/does-coffee-cause-mucus.html</link>
+        <guid isPermaLink="true">/does-coffee-cause-mucus.html</guid>
+        <description>&lt;!--more--&gt;
+&lt;p&gt;Everyone likes starting up their day with a nice hot cup of coffe but it seems that whenever you drink it, you produce more mucus than usual. Is coffee the cause? Read below to find out!&lt;/p&gt;
+
+&lt;h2 id=&quot;mucus&quot;&gt;Mucus&lt;/h2&gt;
+&lt;p&gt;Mucus is an important substance of your body, it traps germs and foreign particles in your respiratory passages that could harm you. Your body produes more mucus than normally when you have a cold, asthma, cough or any other respiratory condition.&lt;/p&gt;
+
+&lt;h2 id=&quot;does-coffe-cause-phelgm&quot;&gt;Does coffe cause phelgm?&lt;/h2&gt;
+&lt;p&gt;Beverages containing caffein like coffee, black tea, soft drinks cause dehydration. Dehydration leads to much thicker mucus&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-deal-with-it&quot;&gt;How to deal with it?&lt;/h2&gt;
+&lt;p&gt;Instead of drinking cafein, try drinking water!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Jan 2014 00:00:00 +0100</pubDate>
+      </item>
+    
+      <item>
+        <title>Do potatoes cause mucus?</title>
+        <link>/do-potatoes-cause-mucus.html</link>
+        <guid isPermaLink="true">/do-potatoes-cause-mucus.html</guid>
+        <description>&lt;!--more--&gt;
+&lt;p&gt;Potatoes are delicious in any form they come. Whenever you eat them, your body over-produces mucus. Are potatoes the cause? Read below to find out!&lt;/p&gt;
+
+&lt;h2 id=&quot;mucus&quot;&gt;Mucus&lt;/h2&gt;
+&lt;p&gt;Mucus is an important substance of your body, it traps germs and foreign particles in your respiratory passages that could harm you. Your body produes more mucus than normally when you have a cold, asthma, cough or any other respiratory condition.&lt;/p&gt;
+
+&lt;h2 id=&quot;do-potatoes-cause-mucusphelgm&quot;&gt;Do potatoes cause mucus/phelgm?&lt;/h2&gt;
+&lt;p&gt;Potatoes do not cause mucus. There is no scientific claim that the veggie triggers the body on over-producing mucus. If you are eatimg potatoes in a  processed form eg.chips, fries - the additives might cause over-production of mucus.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-deal-with-it&quot;&gt;How to deal with it?&lt;/h2&gt;
+&lt;p&gt;Consider limiting the intake. You could try eating them in non processed form.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Jan 2014 00:00:00 +0100</pubDate>
+      </item>
+    
+      <item>
+        <title>Do eggs cause mucus?</title>
+        <link>/do-eggs-cause-mucus.html</link>
+        <guid isPermaLink="true">/do-eggs-cause-mucus.html</guid>
+        <description>&lt;!--more--&gt;
+&lt;p&gt;Eggs are a delicious and a must for every breakfast. Whenever you eat them, your body over-produces mucus. Are eggs the cause? Read below to find out!&lt;/p&gt;
+
+&lt;h2 id=&quot;mucus&quot;&gt;Mucus&lt;/h2&gt;
+&lt;p&gt;Mucus is an important substance of your body, it traps germs and foreign particles in your respiratory passages that could harm you. Your body produes more mucus than normally when you have a cold, asthma, cough or any other respiratory condition.&lt;/p&gt;
+
+&lt;h2 id=&quot;do-eggs-cause-mucusphelgm&quot;&gt;Do eggs cause mucus/phelgm?&lt;/h2&gt;
+&lt;p&gt;Eggs do increase the production of mucus. The properties in eggs can cause the production of histamine which in turn triggers the production of mucus. Eggs also contain a specific protein which can cause an immune reaction to some people increasing mucus production.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-deal-with-it&quot;&gt;How to deal with it?&lt;/h2&gt;
+&lt;p&gt;Consider limiting the intake. You could try eating mucus-destroying foods like honey or drinking chamomie tea or gargling hot water.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Jan 2014 00:00:00 +0100</pubDate>
+      </item>
     
       <item>
         <title>Do bananas cause mucus?</title>
-        <link>/DQ/do-bananas-cause-mucus.html</link>
-        <guid isPermaLink="true">/DQ/do-bananas-cause-mucus.html</guid>
+        <link>/do-bananas-cause-mucus.html</link>
+        <guid isPermaLink="true">/do-bananas-cause-mucus.html</guid>
         <description>&lt;!--more--&gt;
-&lt;p&gt;DO bana?&lt;br /&gt;
-Do banana cuse?
-adad&lt;/p&gt;
+&lt;p&gt;Great for smoothies, healthy, tasty and nutritious but it seems that everytime you eat bananas, your body produces more-than-needed mucus. Could bananas be causing the issue? The answer is … maybe? Read below to find if you are!&lt;/p&gt;
+
+&lt;h2 id=&quot;mucus&quot;&gt;Mucus&lt;/h2&gt;
+&lt;p&gt;Mucus is an important substance of your body, it traps germs and foreign particles in your respiratory passages that could harm you. Your body produes more mucus than normally when you have a cold, asthma, cough or any other respiratory condition.&lt;/p&gt;
+
+&lt;h2 id=&quot;histamine-liberators&quot;&gt;Histamine liberators&lt;/h2&gt;
+&lt;p&gt;Let’s talk about histamine. Histamine is a substance that helps your body fight allergies. Although bananas do not contain histamine, they are considered “histamine liberators”, they push your body to create more, resulting in excessive mucus.&lt;/p&gt;
+
+&lt;h2 id=&quot;allergies&quot;&gt;Allergies&lt;/h2&gt;
+&lt;p&gt;Most people are not allergic to bananas, but you could be. It often isn’t obvious if you are allergic to a food but if you find yourself consistently over-producing mucus when eating bananas, make a note of it and discuss it with your doctor.&lt;/p&gt;
+
+&lt;h2 id=&quot;throat-disorders&quot;&gt;Throat disorders&lt;/h2&gt;
+&lt;p&gt;It is possible that bananas might not be the cause. Viral infections, laryngitis, cararrh sinusitis, cigarette smoke, polluted air could be other causes.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-deal-with-it&quot;&gt;How to deal with it?&lt;/h2&gt;
+&lt;p&gt;You could stop eating the fruit if you feel you are allergic to it. You could try eating mucus-destroying foods like honey or drinking chamomie tea or gargling hot water.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Jan 2014 00:00:00 +0100</pubDate>
+      </item>
+    
+      <item>
+        <title>Do bananas cause coughing?</title>
+        <link>/do-bananas-cause-coughing.html</link>
+        <guid isPermaLink="true">/do-bananas-cause-coughing.html</guid>
+        <description>&lt;!--more--&gt;
+&lt;p&gt;Great for smoothies, healthy, tasty and nutritious but it seems that everytime you eat bananas, your start coughing. Could bananas be causing the issue? Read below to find out!&lt;/p&gt;
+
+&lt;h2 id=&quot;coughing&quot;&gt;Coughing&lt;/h2&gt;
+&lt;p&gt;Although some people do report coughing after eating bananas, there is no scientific evidence to support this. Something that you may be feeling is &lt;a href=&quot;https://livefeelingbetter.com/do-bananas-cause-mucus.html&quot;&gt;an increase mucus due to the banana&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;throat-disorders&quot;&gt;Throat disorders&lt;/h2&gt;
+&lt;p&gt;It is possible that bananas might not be the cause. Viral infections, laryngitis, cararrh sinusitis, cigarette smoke, polluted air could be other causes.&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Jan 2014 00:00:00 +0100</pubDate>
       </item>
