@@ -11,7 +11,7 @@ Everyone likes starting up their day with a nice hot cup of coffe but it seems t
 ## Mucus
 Mucus is an important substance of your body, it traps germs and foreign particles in your respiratory passages that could harm you. Your body produes more mucus than normally when you have a cold, asthma, cough or any other respiratory condition.
 
-## Does coffe cause phelgm?
+## Does coffe cause mucus/phelgm?
 Beverages containing caffein like coffee, black tea, soft drinks cause dehydration. Dehydration leads to much thicker mucus
 
 ## How to deal with it?
