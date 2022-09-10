@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Does quinoa cause mucus?
